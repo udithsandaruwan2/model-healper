@@ -10,7 +10,7 @@ function App() {
   return (
     <>
       <Button variant="primary" onClick={() => setModalShow(true)}>
-        Launch vertically centered modal
+        Launch vertically centered modal - updated
       </Button>
 
       <MyVerticallyCenteredModal
